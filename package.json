@@ -1,0 +1,40 @@
+{
+  "name": "countdown-tw3",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "export": "next build && next export"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.8",
+    "next": "12.2.5",
+    "postcss": "^8.4.16",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "tailwindcss": "^3.1.8"
+  },
+  "devDependencies": {
+    "eslint": "8.22.0",
+    "eslint-config-next": "12.2.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/artbitrage/countdown-tw3.git"
+  },
+  "keywords": [
+    "countdown",
+    "next",
+    "react",
+    "tailwindcss"
+  ],
+  "author": "Syafiq Hadzir <syafiqhadzir@live.com.my> (https://syafiqhadzir.dev)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/artbitrage/countdown-tw3/issues"
+  },
+  "homepage": "https://github.com/artbitrage/countdown-tw3"
+}

@@ -1,4 +1,5 @@
 [![CodeQL](https://github.com/artbitrage/countdown-tw3/actions/workflows/codeql-analysis.yml/badge.svg?branch=main)](https://github.com/artbitrage/countdown-tw3/actions/workflows/codeql-analysis.yml)
+[![Node.js CI](https://github.com/artbitrage/countdown-tw3/actions/workflows/node.js.yml/badge.svg?branch=main)](https://github.com/artbitrage/countdown-tw3/actions/workflows/node.js.yml)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 

@@ -1,3 +1,4 @@
+[![Deploy Next.js site to Pages](https://github.com/artbitrage/countdown-tw3/actions/workflows/nextjs.yml/badge.svg?branch=main)](https://github.com/artbitrage/countdown-tw3/actions/workflows/nextjs.yml)
 [![CodeQL](https://github.com/artbitrage/countdown-tw3/actions/workflows/codeql-analysis.yml/badge.svg?branch=main)](https://github.com/artbitrage/countdown-tw3/actions/workflows/codeql-analysis.yml)
 [![Node.js CI](https://github.com/artbitrage/countdown-tw3/actions/workflows/node.js.yml/badge.svg?branch=main)](https://github.com/artbitrage/countdown-tw3/actions/workflows/node.js.yml)
 
